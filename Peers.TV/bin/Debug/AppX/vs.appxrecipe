@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAN-LAPTOP</Machine>
+    <WindowsUser>Danil</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>117ec87e-53c2-4b4e-8122-c4300f7caea3</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Danil</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>36884F5EEE415FB43BEB71EC47B34C409E2968E8EBE2F427C868120079B5F104</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>117ec87e-53c2-4b4e-8122-c4300f7caea3_1.0.0.0_neutral__qbscpx3b64vaa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>117ec87e-53c2-4b4e-8122-c4300f7caea3_qbscpx3b64vaa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>117ec87e-53c2-4b4e-8122-c4300f7caea3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Danil</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:30:01.835</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\BadgeLogo.scale-400.png">
+      <PackagePath>images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:26:59.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\Square310x310Logo.scale-400.png">
+      <PackagePath>images\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:28:34.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-11-10T11:19:21.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:24:01.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:20:39.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:22:44.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:29:46.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:25:26.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:19:14.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2017-11-11T10:03:34.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2017-11-10T11:19:21.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2017-11-10T11:19:21.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-11T10:30:00.100</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

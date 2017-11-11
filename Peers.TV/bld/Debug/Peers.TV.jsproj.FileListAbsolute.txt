@@ -1,0 +1,17 @@
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\ReverseMap\resources.pri
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\AppxManifest.xml
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bin\Debug\Peers.TV.build.appxrecipe
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\Peers.TV.jsproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\ResourceHandlingTask.state
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\priconfig.xml
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\priconfig.xml.intermediate
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\layout.resfiles
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\layout.resfiles.intermediate
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\resources.resfiles
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\resources.resfiles.intermediate
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\pri.resfiles
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\pri.resfiles.intermediate
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\qualifiers.txt
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Danil\source\repos\Peers.TV\Peers.TV\bld\Debug\ProjectArchitectures.txt
